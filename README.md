@@ -6,12 +6,12 @@ A Vim Plugin written in Lua to quickly open the buffer's current line in GitHub 
 
 #### Lua:
 ```lua
-use { 'ciehanski/nvim-git-line' }
+use { 'karl-thomas/nvim-git-line' }
 ```
 
 #### Vimscript:
 ```vim
-Plug 'ciehanski/nvim-git-line'
+Plug 'karl-thomas/nvim-git-line'
 ```
 
 ## Usage
